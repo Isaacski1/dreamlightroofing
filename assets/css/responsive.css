@@ -1999,6 +1999,13 @@
 
 
 @media only screen and (max-width: 767px) {
+    .main-header {
+        padding: 10px !important;
+    }
+    .main-menu__logo a img {
+        width: 100px;
+        height: auto;
+    }
     .main-slider-one__top-text {
         display: none;
     }
